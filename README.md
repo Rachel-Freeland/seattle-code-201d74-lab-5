@@ -22,3 +22,7 @@ This lab will have starter code provided. Work with your instructor directly to 
 ### Submission Instructions
 
 Make sure your *main* branch is up to date with your most recent code. Create a new pull request on GitHub from your main branch to `<your school's>` main branch, making sure that the left dropdown `base repository` says `<your school name>/<your course code>` and the right dropdown `head repository` says `<your github username>/<lab name>`
+
+### Problem 2
+
+* Updated the code block of the multiply function.
