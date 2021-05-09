@@ -26,3 +26,7 @@ Make sure your *main* branch is up to date with your most recent code. Create a 
 ### Problem 2
 
 * Updated the code block of the multiply function.
+
+### Problem 3
+
+* Updated the code block for the sumAndMultiply function.
