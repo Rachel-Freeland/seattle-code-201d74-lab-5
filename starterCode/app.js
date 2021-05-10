@@ -9,7 +9,7 @@ Test this function by hand in the console to get it working, and when you think 
 function sum(a, b) { //eslint-disable-line
   let totalSum = a + b;
   // return an array [sum, "The sum of 4 and 7 is 11."]
-  return [totalSum, "The sum of " + a +" and " + b + " is " + totalSum + "."];
+  return [totalSum, `The sum of ${a} and ${b} is ${totalSum}.`];
 }
 
 // let result = sum(3, 10) if I just want the number I need to figure out how to get the 0 position
@@ -121,8 +121,8 @@ let testDynamicArray = [1,2,3,4,5]; //eslint-disable-line
 function multiplyAnyArray(dynamicArray) { //eslint-disable-line
   let anyArrayTot = 1;
   
-  for (i = 0; i < dynamicArray.length; i++){
-    let anyArrayTot = multiply(anyArrayTot, dynamicArray[i])[0];     
+  for (let i = 0; i < dynamicArray.length; i++){
+    anyArrayTot = multiply(anyArrayTot, dynamicArray[i])[0];     
   }
   return [anyArrayTot, 'The numbers ' + dynamicArray + ' have a product of ' + anyArrayTot + '.'];
 }
