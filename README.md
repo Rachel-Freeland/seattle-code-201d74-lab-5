@@ -38,3 +38,7 @@ Make sure your *main* branch is up to date with your most recent code. Create a 
 ### Problem 5
 
 * Updated the code block for the multiplyArray function.
+
+### Problem 6 - Stretch Goal
+
+* Stretch goal was attempted and attempt was left so that I can try again later.
