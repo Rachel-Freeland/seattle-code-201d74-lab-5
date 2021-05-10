@@ -34,3 +34,7 @@ Make sure your *main* branch is up to date with your most recent code. Create a 
 ### Problem 4
 
 * Updated the code block for the sumArray() code block.
+
+### Problem 5
+
+* Updated the code block for the multiplyArray function.
